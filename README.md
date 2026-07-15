@@ -6,19 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 31 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
-- [math](#math) (5)
+- [implementation](#implementation) (24)
+- [math](#math) (7)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (8)
 
 ---
 
@@ -35,7 +38,20 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 
 ### greedy
 
@@ -49,16 +65,30 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.py) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
+| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 
 ### math
 
@@ -66,9 +96,17 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 
 ### sortings
 
@@ -80,11 +118,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.py) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 
 ---
 
