@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 177 | 21 |
+| 178 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (30)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (5)
@@ -25,7 +25,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (44)
 - [implementation](#implementation) (100)
-- [math](#math) (69)
+- [math](#math) (70)
 - [number theory](#number-theory) (6)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -102,6 +102,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 | 1334C | [Circle of Monsters](https://codeforces.com/contest/1334/problem/C) | 1600 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1334/C%20-%20Circle%20of%20Monsters/solution.py) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 
@@ -331,6 +332,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1334C | [Circle of Monsters](https://codeforces.com/contest/1334/problem/C) | 1600 | [Python 3](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1334/C%20-%20Circle%20of%20Monsters/solution.py) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
