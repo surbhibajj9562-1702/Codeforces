@@ -1,0 +1,19 @@
+<h2><a href="https://codeforces.com/contest/1743/problem/A" target="_blank" rel="noopener noreferrer">1743A — Password</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1743A](https://codeforces.com/contest/1743/problem/A) |
+
+## Topics
+`brute force` `combinatorics` `implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Password</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Monocarp has forgotten the password to his mobile phone. The password consists of $$$4$$$ digits from $$$0$$$ to $$$9$$$ (note that it can start with the digit $$$0$$$).</p><p>Monocarp remembers that his password had exactly two different digits, and each of these digits appeared exactly two times in the password. Monocarp also remembers some digits which were definitely not used in the password.</p><p>You have to calculate the number of different sequences of $$$4$$$ digits that could be the password for Monocarp's mobile phone (i. e. these sequences should meet all constraints on Monocarp's password).</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 200$$$) — the number of testcases.</p><p>The first line of each testcase contains a single integer $$$n$$$ ($$$1 \le n \le 8$$$) — the number of digits for which Monocarp remembers that they were not used in the password.</p><p>The second line contains $$$n$$$ different integers $$$a_1, a_2, \dots a_n$$$ ($$$0 \le a_i \le 9$$$) representing the digits that were not used in the password. Note that the digits $$$a_1, a_2, \dots, a_n$$$ are given in ascending order.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each testcase, print one integer — the number of different $$$4$$$-digit sequences that meet the constraints.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0039234692351742606" id="id006727851793866729" class="input-output-copier">Copy</div></div><pre id="id0039234692351742606"><div class="test-example-line test-example-line-even test-example-line-0">2</div><div class="test-example-line test-example-line-odd test-example-line-1">8</div><div class="test-example-line test-example-line-odd test-example-line-1">0 1 2 4 5 6 8 9</div><div class="test-example-line test-example-line-even test-example-line-2">1</div><div class="test-example-line test-example-line-even test-example-line-2">8</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005806111597312912" id="id00046165704461037294" class="input-output-copier">Copy</div></div><pre id="id005806111597312912">6
+216
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example, all possible passwords are: "<span class="tex-font-style-tt">3377</span>", "<span class="tex-font-style-tt">3737</span>", "<span class="tex-font-style-tt">3773</span>", "<span class="tex-font-style-tt">7337</span>", "<span class="tex-font-style-tt">7373</span>", "<span class="tex-font-style-tt">7733</span>".</p></div>
