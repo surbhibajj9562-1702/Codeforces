@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 188 | 23 |
+| 189 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (32)
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 
 ### binary search
 
