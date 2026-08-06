@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 191 | 23 |
+| 192 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (32)
@@ -52,6 +52,7 @@
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | Unrated | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.java) |
 | 2252D | [Array Replacement](https://codeforces.com/contest/2252/problem/D) | Unrated | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/D%20-%20Array%20Replacement/solution.java) |
+| 2252F | [Spectral Components](https://codeforces.com/contest/2252/problem/F) | Unrated | [Java 21](https://github.com/surbhibajj9562-1702/Codeforces/blob/HEAD/2252/F%20-%20Spectral%20Components/solution.java) |
 
 ### binary search
 
